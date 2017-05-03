@@ -2,9 +2,9 @@
     class db{
         // Properties
         private $dbhost = 'localhost';
-        private $dbuser = 'root';
-        private $dbpass = '123456';
-        private $dbname = 'slimapp';
+        private $dbuser = 'edoc';
+        private $dbpass = '1234';
+        private $dbname = 'dummy_db';
 
         // Connect
         public function connect(){
